@@ -1,0 +1,14 @@
+body {
+  font-family: Verdana;
+  text-align: center;
+}
+
+#btnRoll {
+  font-size: 3em;
+  padding: 5px 25px;
+  border-radius: 5px;
+}
+
+.numAll {
+  font-size: 2em;
+}
